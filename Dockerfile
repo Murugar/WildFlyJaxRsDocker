@@ -1,5 +1,4 @@
 FROM openjdk
-MAINTAINER antonio perrone, https://github.com/fushji
 
 COPY target/wildflyjaxrsdocker-swarm.jar /opt/hello-wildfly-swarm.jar
 
